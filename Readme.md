@@ -34,13 +34,9 @@ Certifique-se de ter os seguintes itens configurados antes de executar o script:
    python
 
 ### Dentro do terminal Python, importe o mouseInfo e execute-o:
-   ```bash
-  from mouseinfo import mouseInfo
-  mouseInfo()
-
-### Observação
-
-5. pip install mouseinfo
+    ```bash
+    from mouseinfo import mouseInfo
+    mouseInfo()
 
 # Disclaimer
 Este script foi desenvolvido para fins educacionais e pessoais. Certifique-se de respeitar os Termos de Serviço do TikTok. O uso inadequado ou em larga escala pode violar as regras da plataforma e resultar em penalidades para sua conta.
