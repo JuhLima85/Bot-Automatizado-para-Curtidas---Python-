@@ -23,7 +23,7 @@ Certifique-se de ter os seguintes itens configurados antes de executar o script:
  **Python 3.x** instalado.
 - Instale as bibliotecas necessárias:
   ```bash
-pip install pyautogui pillow mouseinfo
+  pip install pyautogui pillow mouseinfo
 
 
 # Como Abrir o MouseInfo pelo CMD
@@ -34,9 +34,9 @@ pip install pyautogui pillow mouseinfo
    python
 
 ### Dentro do terminal Python, importe o mouseInfo e execute-o:
-
-3. from mouseinfo import mouseInfo
-4. mouseInfo()
+   ```bash
+  from mouseinfo import mouseInfo
+  mouseInfo()
 
 ### Observação
 
